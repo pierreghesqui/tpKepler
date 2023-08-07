@@ -1,0 +1,2 @@
+Lien élève : https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/pierreghesqui/tpKepler/main/TP-3e%20Loi%20de%20Kepler.ipynb
+Lien élève court : https://tinyurl.com/termpytkep 
